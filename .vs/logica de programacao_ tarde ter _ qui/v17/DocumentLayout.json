@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65A10F08-3B5B-4453-A938-63AB702107C6}|ex04\\ex04.csproj|c:\\users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A10F08-3B5B-4453-A938-63AB702107C6}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{393D4478-413D-41DE-B237-10D7FC34EFD9}|ex03\\ex03.csproj|c:\\users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{393D4478-413D-41DE-B237-10D7FC34EFD9}|ex03\\ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,15 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex04\\Program.cs",
+              "RelativeDocumentMoniker": "ex04\\Program.cs",
+              "ToolTip": "C:\\Users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex04\\Program.cs",
+              "RelativeToolTip": "ex04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:44:03.565Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maylon.lsonascimento\\source\\repos\\logica de programacao_ tarde ter _ qui\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
